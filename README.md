@@ -7,7 +7,7 @@
   
 ## 
   
-### I can do...
+<br><b>I can do...</b>
 <div class="lang" style="display: inline_block">
   <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" alt="Numpy" title="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
@@ -20,8 +20,8 @@
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
-  
-  ### I also plan to learn...
+
+<br><b>I also plan to learn...</b>
 <div class="lang" style="display: inline_block">
   <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
   <img align="center" alt="Google Cloud" title="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg">
@@ -36,16 +36,10 @@
   <img align="center" alt="Flask" title="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
   
-### Not only engaged with programming languages...
+<br><b>Not only engaged with programming languages...</b>
 <div>
   🇧🇷 Native&nbsp;&nbsp;|&nbsp;&nbsp;🇺🇸 Advanced&nbsp;&nbsp;|&nbsp;&nbsp;🇯🇵 Intermediate&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Beginner
-</div>
-
-##
-
-<div>
-   <a href="https://www.linkedin.com/in/gabrielcnog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabriel.c.nog@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href = "https://stackoverflow.com/users/17330862/gabriel-nogueira"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=whit" target="_blank"></a>
-
+  <a href = "https://www.codewars.com/users/gabrielcnog/"><img height="24" align="right" src="https://badgen.net/badge/:subject/Codewars/terminal?labelColor=B0351E&icon=https://svgshare.com/i/cAi.svg&label=&color=B0351E" target="_blank"></a>&nbsp;&nbsp;
+  <a href = "mailto:gabriel.c.nog@gmail.com"><img height="24" align="right" src="https://badgen.net/badge/:subject/E-mail/terminal?labelColor=EA4335&icon=https://svgshare.com/i/c8Q.svg&label=&color=EA4335" target="_blank"></a>&nbsp;&nbsp;
+  <a href = "https://www.linkedin.com/in/gabrielcnog/"><img height="24" align="right" src="https://badgen.net/badge/:subject/Linkedin/terminal?labelColor=0B65C2&icon=https://svgshare.com/i/c9V.svg&label=&color=0B65C2" target="_blank"></a>
 </div>
