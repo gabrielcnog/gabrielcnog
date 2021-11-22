@@ -1,13 +1,14 @@
 ## Hey there, I'm Gabriel 👋
 
-<!-- 
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcnog&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=22272D&icon_color=C8D1D9&custom_title=My GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcnog&layout=compact&langs_count=7&theme=dark&bg_color=22272D&icon_color=C8D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcnog&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=22272D&icon_color=C8D1D9&custom_title=My GitHub Stats&hide_border=true"/>
+<!--  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcnog&langs_count=7&theme=dark&bg_color=22272D&icon_color=C8D1D9&hide_border=true"/>
 </div>
-  
-## 
 -->  
+
+##
 
 <b>I can do...</b>
 <div class="lang" style="display: inline_block">
