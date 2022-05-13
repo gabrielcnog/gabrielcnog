@@ -12,9 +12,6 @@
 
 <b>I can do...</b>
 <div class="lang" style="display: inline_block">
-  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img align="center" alt="Numpy" title="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Pandas" title="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
   <img align="center" alt="Jupyter" title="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Qlik" title="Qlik" height="26" width="28" src="https://lh3.googleusercontent.com/pw/AM-JKLVW47CMhbBhAh6nBQh77ByDVf2A-HlPh48vHenQ5vZ87-Unlv9l6b2vOs2rlb-ZFJRnI8PPmomK7TCBTmbLa5donmx5gAO__gXgzmmu7vrKzuOjsbiE9SlixBkdHhq053JpxHJGgC3SWJYkkbj9PV9stg=w750-h728-no?authuser=0">
   <img align="center" alt="MySQL" title="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
@@ -24,10 +21,16 @@
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
 </div>
+  
+  <b>Studying right now...</b>
+<div class="lang" style="display: inline_block">
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+  <img align="center" alt="Numpy" title="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Pandas" title="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+</div>
 
 <br><b>I also plan to learn...</b>
 <div class="lang" style="display: inline_block">
-  <img align="center" alt="Docker" title="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
   <img align="center" alt="AWS" title="AWS" height="20" width="30" src="https://lh3.googleusercontent.com/pw/AM-JKLVMYRzPdL1TzFXOgloWO6B_L6sLGapQl9IcJT7Ls_R8LDDOYY4ltgOkhxydqKKVCRUt8L1_MBQalSOZtNwng97BAK4RHdsKGJOm1z1ZqFtPFz_Xhjky0b_c6pb4LhrSIZpu-lXgOKxcJuAA30l8u9CXEA=w521-h325-no?authuser=0">
   <img align="center" alt="Google Cloud" title="Google Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg">
   <img align="center" alt="R" title="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
@@ -36,14 +39,13 @@
   <img align="center" alt="Ruby" title="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Scala" title="Scala" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg">
   <img align="center" alt="Django" title="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Elixir" title="Elixir" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg">
   <img align="center" alt="Raspberry Pi" title="Raspberry Pi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="Flask" title="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
   
 <br><b>Not only engaged with programming languages...</b>
 <div>
-  🇧🇷 Native&nbsp;&nbsp;|&nbsp;&nbsp;🇺🇸 Advanced&nbsp;&nbsp;|&nbsp;&nbsp;🇯🇵 Intermediate&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Beginner
+  🇧🇷 Native&nbsp;&nbsp;|&nbsp;&nbsp;🇺🇸 Advanced&nbsp;&nbsp;|&nbsp;&nbsp;🇯🇵 Intermediate&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Beginner|&nbsp;&nbsp;🇪🇸 Beginner
 </div>
 
 ##
