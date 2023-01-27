@@ -2,8 +2,6 @@
 
 
 <div align="center">
-  
-##
 
 <b>I can do...</b>
 <div class="lang" style="display: inline_block">
