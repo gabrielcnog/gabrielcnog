@@ -45,7 +45,7 @@
   
 <br><b>Not only engaged with programming languages...</b>
 <div>
-  🇧🇷 Native&nbsp;&nbsp;|&nbsp;&nbsp;🇺🇸 Advanced&nbsp;&nbsp;|&nbsp;&nbsp;🇯🇵 Intermediate&nbsp;&nbsp;|&nbsp;&nbsp;🇰🇷 Beginner|&nbsp;&nbsp;🇪🇸 Beginner
+  🇧🇷 Native&nbsp;&nbsp;|&nbsp;&nbsp;🇺🇸 Advanced&nbsp;&nbsp;|&nbsp;&nbsp;🇯🇵 Intermediate&nbsp;&nbsp;|&nbsp;&nbsp;🇪🇸 Beginner
 </div>
 
 ##
